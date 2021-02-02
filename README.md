@@ -1,6 +1,6 @@
 # Тестовое задание
 
-Примеры запросов:
+Примеры запросов:  
     - Добавление: curl -X POST -H 'Content-Type: application/json' --data '{"name":"utest"}' localhost:8080/users  
     - Список всех юзеров: curl localhost:8080/users  
     - Получение по id: curl localhost:8080/users/3  
